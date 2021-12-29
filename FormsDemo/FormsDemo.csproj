@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DocumentTemplates\MD Amendatory.docx" />
+    <None Remove="DocumentTemplates\ME Amendatory.docx" />
+    <None Remove="DocumentTemplates\NJ Amendatory.docx" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Content Include="DocumentTemplates\MD Amendatory.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DocumentTemplates\ME Amendatory.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DocumentTemplates\NJ Amendatory.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.8.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Office.Interop.Word" Version="15.0.0.0" />
+    <PackageReference Include="PDFsharp" Version="1.50.4820-RC1" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
+    <PackageReference Include="System.Text.Json" Version="5.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word">
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Word\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="office">
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\office\15.0.0.0__71e9bce111e9429c\OFFICE.DLL</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+
+
+</Project>

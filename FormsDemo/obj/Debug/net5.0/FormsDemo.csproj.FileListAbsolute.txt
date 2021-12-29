@@ -1,0 +1,43 @@
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\FormsDemo.exe
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\DocumentTemplates\MD Amendatory.docx
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\DocumentTemplates\ME Amendatory.docx
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\FormsDemo.deps.json
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\FormsDemo.runtimeconfig.json
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\FormsDemo.runtimeconfig.dev.json
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\FormsDemo.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\ref\FormsDemo.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\FormsDemo.pdb
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\Microsoft.Office.Interop.Word.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\PdfSharp.Charting.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\PdfSharp.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\de\PdfSharp.Charting.resources.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\de\PdfSharp.resources.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.AssemblyInfoInputs.cache
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.AssemblyInfo.cs
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\scopedcss\bundle\FormsDemo.styles.css
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\staticwebassets\FormsDemo.StaticWebAssets.Manifest.cache
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.RazorTargetAssemblyInfo.cache
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.csproj.CopyComplete
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\ref\FormsDemo.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.pdb
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.genruntimeconfig.cache
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\OFFICE.DLL
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\obj\Debug\net5.0\FormsDemo.csproj.AssemblyReference.cache
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\MarcKennethLomio\source\repos\FormsDemo\FormsDemo\bin\Debug\net5.0\DocumentTemplates\NJ Amendatory.docx
